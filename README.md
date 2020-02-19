@@ -1,4 +1,4 @@
-# election_tracker
+# Election Tracker
 #### Installation Guide
 
 In QGIS (3.2)
