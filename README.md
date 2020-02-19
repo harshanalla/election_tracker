@@ -5,7 +5,7 @@ In QGIS (3.2)
 
 Plugin > Manage and Install Plugins > Install From Zip > Choose "election_plugin.zip"
 
-#### Data Requirement
+#### System Requirement
 QGIS (3.2+), Python (3.7), PyQt5. The computer must have two times the size of the shapefile in available memory.
 
 ### Software Requirements
